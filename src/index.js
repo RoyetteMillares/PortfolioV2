@@ -1,9 +1,8 @@
+const royetteShield = {
+    Hp: 100,
+    Attack: 9900,
+    defense: 999999,
+    MagicDefense: 19000,
+}
 
-const shieldRoyette = {
-    hp: 1,
-    life: 2,
-    refindAttack: 4,
-};
-
-
-console.log( shieldRoyette );
+console.log( royetteShield );
