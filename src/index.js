@@ -1,3 +1,6 @@
+import "./less/app.less";
+
+
 const royetteShield = {
     Hp: 100,
     Attack: 9900,
