@@ -1,0 +1,28 @@
+{
+  "name": "portfoliov2",
+  "version": "1.0.0",
+  "description": "Creating a new portfolio with latest Project from Previous and Current Company",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve",
+    "watch": "webpack --watch",
+    "build": "webpack"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyetteMillares/PortfolioV2.git"
+  },
+  "keywords": [],
+  "author": "Royette B. Millares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoyetteMillares/PortfolioV2/issues"
+  },
+  "homepage": "https://github.com/RoyetteMillares/PortfolioV2#readme",
+  "devDependencies": {
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.3"
+  }
+}
