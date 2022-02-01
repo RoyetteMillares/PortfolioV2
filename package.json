@@ -31,5 +31,17 @@
     "webpack": "^5.67.0",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.3"
+  },
+  "browser": {
+    "jquery": "./src/vendor/jquery/dist/jquery.js",
+    "three": "./src/vendor/threejs/build/three.js",
+    "tweenlite": "./src/vendor/gsap/src/uncompressed/TweenLite.js",
+    "tweenlite.easing": "./src/vendor/gsap/src/uncompressed/easing/EasePack.js",
+    "tweenlite.bezier": "./src/vendor/gsap/src/uncompressed/plugins/BezierPlugin.js",
+    "tweenlite.css": "./src/vendor/gsap/src/uncompressed/plugins/CSSPlugin.js ",
+    "tweenlite.jquery": "./src/vendor/gsap/src/uncompressed/jquery.gsap.js",
+    "howler": "./src/vendor/howler/howler.js",
+    "visibly": "./src/vendor/visibly.js/visibly.js",
+    "skrollr": "./src/vendor/skrollr/src/skrollr.js"
   }
 }
